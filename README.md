@@ -9,7 +9,3 @@ The data for this project was taken from the UCI Machine Learning Repository: ht
 * Exploratory data analysis to understand the relationship between the features and the target variable
 * Processing, encoding and standardizing data into numerical features to use machine learning
 * Use predictive models to determine the individuals that are the most likely to make over 50k a year
-## Mind mapping
-I've built a mind map which summarizes my work:
-
-![Imgur](https://i.imgur.com/pQu4CvL.jpg)
